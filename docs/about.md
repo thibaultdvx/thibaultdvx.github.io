@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: landingpage
 title: About
 permalink: /about/
 ---
