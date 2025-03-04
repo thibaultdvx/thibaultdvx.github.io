@@ -3,16 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-toc: true
 ---
 
 Home page!!!
-
-<div>
-  <div id="table-of-contents">
-    {% toc %}
-  </div>
-  <div id="markdown-content">
-    {{ content }}
-  </div>
-</div>
