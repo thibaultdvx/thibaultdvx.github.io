@@ -6,3 +6,6 @@ layout: default
 ---
 
 Home page!!!
+
+* TOC
+{:toc}
