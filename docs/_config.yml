@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: Huxpro/huxpro.github.io
+remote_theme: jeffreytse/jekyll-theme-yat
 plugins:
   - jekyll-remote-theme
 #  - jekyll-feed
