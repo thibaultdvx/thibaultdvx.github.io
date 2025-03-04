@@ -39,6 +39,11 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
+header_pages:
+  - index.md
+  - contact.md
+  - index.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
