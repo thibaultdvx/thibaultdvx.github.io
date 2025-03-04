@@ -30,8 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-markdown: GFM
-theme: minima
+markdown: kramdown
+theme: architect
 plugins:
   - jekyll-feed
 
