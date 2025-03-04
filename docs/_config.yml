@@ -38,6 +38,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+  - jekyll-toc
 
 header_pages:
   - index.md
