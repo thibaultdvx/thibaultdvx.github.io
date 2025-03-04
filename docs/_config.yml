@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: swcool/landing-page-theme
+remote_theme: pages-themes/cayman
 plugins:
   - jekyll-remote-theme
 #  - jekyll-feed
