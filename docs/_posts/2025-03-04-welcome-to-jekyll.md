@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title:  "Welcome to Jekyll!"
 date:   2025-03-04 10:47:47 +0000
 categories: jekyll update
